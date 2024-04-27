@@ -1,5 +1,7 @@
-Helo
+Hi,
 Im a RGB Tree from the internet
-and i have good code bc its coded with RGB!
 
-im cool...
+Code never lies, comments do...
+
+Roses are red, violets are blue,
+unexpected error in line 32!
